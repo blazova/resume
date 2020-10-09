@@ -1,0 +1,383 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "Master's Degree",
+				"endDate": "2017-05-31",
+				"field": "Strategic Management",
+				"gpa": "",
+				"id": "e58230a4-8778-4f0c-b79f-a49830d4e415",
+				"institution": "Comenius University, Bratislava",
+				"startDate": "2012-09-01",
+				"summary": "- Graduated with Honours Cum Laude\n- State Exams: IT, Economy, Strategy\n- Merit Scholarship (Bachelors and Masters)\n- Erasmus Studies at ISCTE, Lisbon (2016)\n- Erasmus Studies at UCBL, Lyon (2014)"
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Tools",
+		"items": [
+			{
+				"id": "98d831f0-4c33-40a6-bbe1-cfa99fffbc94",
+				"name": "Git"
+			},
+			{
+				"id": "a33fb1e8-5e9a-4a10-91d9-67b8d31ae5c5",
+				"name": "Heroku"
+			},
+			{
+				"id": "8c219460-ddeb-4264-9506-45d0c149acf5",
+				"name": "Pandas"
+			},
+			{
+				"id": "5b304545-3b4b-4d93-9195-701093ef95dd",
+				"name": "Periscope & Sisense"
+			},
+			{
+				"id": "845d4a02-02b2-484e-8778-3567229b46ab",
+				"name": "Databricks"
+			},
+			{
+				"id": "41482895-6721-442d-b73d-7a82d8224cc0",
+				"name": "Tableau"
+			},
+			{
+				"id": "0bdd3692-c6ae-440c-b8ce-9d413abdc998",
+				"name": "Data Studio"
+			},
+			{
+				"id": "4cdb5f15-9bcf-4e65-9664-330c1cff21da",
+				"name": "Google BigQuery"
+			},
+			{
+				"id": "6c5f50aa-5a5c-4879-878a-5c5ea89aaa46",
+				"name": "Stitch"
+			},
+			{
+				"id": "515c1943-1903-4e9c-927b-f1b81d272fa2",
+				"name": "Blendo"
+			},
+			{
+				"id": "760b9ca1-6d85-40cc-9700-4ec706194f07",
+				"name": "Jira"
+			},
+			{
+				"id": "10b12e82-0280-45b0-88b7-915f79e92973",
+				"name": "Asana"
+			},
+			{
+				"id": "50f3e84f-c6c4-474c-93d4-a593e77c4d4c",
+				"name": "Jupyter Notebook"
+			},
+			{
+				"id": "ce67f9ac-aab7-49e1-8d34-f10eb238f465",
+				"name": "Scrapy"
+			},
+			{
+				"id": "4f1e090b-a87a-4ace-a6b5-09faf10cee57",
+				"name": "BeautifulSoup"
+			}
+		],
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "C1",
+				"id": "ce7f02d0-05e2-4274-a052-aaa94b36186d",
+				"name": "English"
+			},
+			{
+				"fluency": "B2",
+				"id": "eea88ef7-c1f4-44f2-a0a8-a6a9772f4b03",
+				"name": "French"
+			},
+			{
+				"fluency": "A2",
+				"id": "01dee512-c817-4fe7-b1cf-db50abef7c43",
+				"name": "German"
+			},
+			{
+				"fluency": "A2",
+				"id": "a7cf3f08-0a55-4060-9f33-2f6f484332be",
+				"name": "Portuguese"
+			},
+			{
+				"fluency": "Native",
+				"id": "d61502f3-9edd-4def-905f-49cd0fa18d7e",
+				"name": "Slovak"
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "",
+			"primary": "#72747B",
+			"text": "#444FF"
+		},
+		"font": "Nunito",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"certifications",
+					"awards",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"skills",
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"skills",
+					"work",
+					"education",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "celebi"
+	},
+	"objective": {
+		"body": "Coming from a managerial background I fully dived into the field of data science & engineering after having lead product and data teams shaping an ML based metasearch for property listings in a Portuguese startup. Self taught, I transitioned to a completely operational role and joined a newly created data science team in an insurtech startup in Germany. I'm now looking for an opportunity to grow further into a more specified role focused on data engineering and warehousing.",
+		"heading": "About",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1596124820434-ea2077c259db?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=400",
+	"profile": {
+		"address": {
+			"city": "Heidelberg",
+			"line1": "Schroederstrasse 21",
+			"line2": "",
+			"pincode": "69120"
+		},
+		"email": "blazova.lucia@gmail.com",
+		"firstName": "Lucia",
+		"heading": "Profile",
+		"lastName": "Blazova",
+		"phone": "+4915237970201",
+		"photograph": "https://firebasestorage.googleapis.com/v0/b/rx-resume.appspot.com/o/users%2F45g349TdjAYKBMABerC3Qs1ew962%2Fphotographs%2Fpw4tr3?alt=media&token=9a23a02f-aca9-4be4-a483-dbac02d8211f",
+		"subtitle": "Data Analyst, germany",
+		"website": ""
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "d2fb3308-1ce1-485b-a92d-ad1b5378c620",
+				"level": " ",
+				"name": "SQL"
+			},
+			{
+				"id": "93fa3904-1f0a-443e-a3bc-1a5e146ee9f3",
+				"level": " ",
+				"name": "Python"
+			},
+			{
+				"id": "ecbeb9ca-4b75-49a5-9bb9-ae4cb168c227",
+				"level": " ",
+				"name": "Data Analysis"
+			},
+			{
+				"id": "f1c75c4d-70f2-438f-9224-94708e5d0793",
+				"level": " ",
+				"name": "R"
+			},
+			{
+				"id": "f8b15926-94f6-4aba-9b4f-c89c47e6ed83",
+				"level": " ",
+				"name": "FInancial Reporting"
+			},
+			{
+				"id": "a05d5f4c-0966-4043-8756-8cf48406e21d",
+				"level": " ",
+				"name": "Data Visualisation"
+			},
+			{
+				"id": "7b677193-53b4-4580-bc8a-9e70e1e4a8d9",
+				"level": " ",
+				"name": "Data Warehousing"
+			},
+			{
+				"id": "cbf0df3d-17de-481f-96c4-92052d059d4d",
+				"level": "  ",
+				"name": "Price Modelling & Optimisation"
+			},
+			{
+				"id": "4cd72b89-1209-47b3-83d9-be64f60e402b",
+				"level": " ",
+				"name": "Databases"
+			},
+			{
+				"id": "15708e25-5e00-49c9-b7e7-fbba8ada1483",
+				"level": " ",
+				"name": "Data Science"
+			},
+			{
+				"id": "1bebb92b-c804-4b9a-b8ba-30a46563de85",
+				"level": " ",
+				"name": "ETL"
+			},
+			{
+				"id": "2a82dd46-3687-4ae3-a4b4-a75bc2f16bbc",
+				"level": " ",
+				"name": "Project Management"
+			},
+			{
+				"id": "3a298abc-f914-471e-aceb-79c84cf00ccf",
+				"level": " ",
+				"name": "Mentoring"
+			},
+			{
+				"id": "c02d387e-f32c-4ce6-9f2c-cc3cfe02e5f2",
+				"level": " ",
+				"name": "Product Management"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "554e6afc-e7dc-402e-9be5-35e5ae75a8cd",
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/lucia-blazova/",
+				"username": "/blazova"
+			},
+			{
+				"id": "a69e5f58-7223-44be-bed0-43d60adf762d",
+				"network": "Github",
+				"url": "https://github.com/blazova?tab=repositories",
+				"username": "blazova"
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "Getsafe, Heidelberg",
+				"endDate": "",
+				"id": "026bcdd8-0f7b-42b5-a152-49de7895563f",
+				"position": "Data Analyst",
+				"startDate": "2019-05-01",
+				"summary": "- Connected new data sources to DWH and monitored the health status of ETL pipelines\n\n- Converted business requirements into interactive dashboards and alerts\n\n- Automated reports using Python scripts\n\n- Held workshops on Business Intelligence and trainings for the related software\n\n- Mentored new data team members\n\n- Designed, implemented and maintained data analytics infrastructure, table schemas and refined analytics-ready views, had responsibility over deprecation of outdated information,  managed dependencies between tables and views , caching and replication strategies\n\n- Conceptualised, implemented and deployed a production scraper and a periodical result monitor",
+				"website": ""
+			},
+			{
+				"company": "Casafari - Real Estate Metasearch powered by AI, Lisbon",
+				"endDate": "2019-04-30",
+				"id": "ccdc865a-beb1-4eac-9518-995286ef606b",
+				"position": "Delivery Manager",
+				"startDate": "2017-08-14",
+				"summary": "- Coordinated engineering and data science teams on product development projects for a real estate platform solution that deduplicates and consolidates different property offers into a clean metasearch\n\n- Introduced a fraud detection concept for annotation of the matching algorithm's results\n\n- Performed data QA, data analysis and reporting tasks\n\n- Set up crawling configurations\n\n- Led the hiring and onboarding of new team members\n\n- Set and optimised business processes, helped to shape marketing and CRM teams and projects\n",
+				"website": ""
+			}
+		],
+		"visible": true
+	}
+}
